@@ -192,3 +192,67 @@ header nav ul li a{
     text-align: center;
     color: #21243D;">Copyright ©2020 All rights reserved
 }
+.s-info{
+    max-width: 858px;
+    margin: auto
+}
+.m_height{
+    max-height: 180px;
+    padding-bottom: 46px;
+}
+.s-info .container {
+    padding-left: 18px;
+}
+.feature{
+    padding-bottom: 22px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+}
+.h_design{
+    padding-bottom: 18px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+
+}
+.h_dash{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    background: #142850;
+    border-radius: 16px;
+    max-width: 38px;
+    max-height: 25px;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+
+}
+.s_dash{
+    padding-left: 26px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+}
+.p_inf{
+    padding-top: 18px;
+}
+.img_sec{
+    display: block;
+    max-width: 246px;
+    border-radius: 6px;
+}
+
